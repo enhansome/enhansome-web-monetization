@@ -82,7 +82,7 @@ if (document.monetization) {
 
 *Any packages/modules and plugins*
 
-* [awesome-jsgames](https://github.com/proyecto26/awesome-jsgames) ⭐ 965 | 🐛 18 | 📅 2026-03-22 - A curated list of awesome JavaScript Games ![](assets/small_icons/javascript.png)
+* [awesome-jsgames](https://github.com/proyecto26/awesome-jsgames) ⭐ 966 | 🐛 18 | 📅 2026-03-22 - A curated list of awesome JavaScript Games ![](assets/small_icons/javascript.png)
 * [react-monetize](https://github.com/guidovizoso/react-monetize) ⭐ 37 | 🐛 25 | 🌐 TypeScript | 📅 2024-02-02 - Helpers and hooks to speed up your integration with Web Monetization API. ![](assets/small_icons/react.png)
 * [eleventy-plugin-monetization](https://github.com/DanCanetti/eleventy-plugin-monetization) ⭐ 24 | 🐛 1 | 🌐 JavaScript | 📅 2024-09-18 - An Eleventy plugin to monetize posts and site content. ![](assets/small_icons/11ty.png)
 * [web-monetized-video](https://github.com/Jasmin2895/web-monetized-video) ⭐ 17 | 🐛 2 | 🌐 JavaScript | 📅 2023-07-05 - A web component with has play and pay policy and charges you for the amount of video watched. ![](assets/small_icons/javascript.png)
@@ -194,4 +194,4 @@ Thanks to all **Sponsors on GitHub** !
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
