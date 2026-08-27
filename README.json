@@ -17,7 +17,7 @@
                 "last_commit": "2026-03-22T21:09:20Z",
                 "owner": "proyecto26",
                 "repo": "awesome-jsgames",
-                "stars": 966
+                "stars": 967
               }
             },
             {
@@ -382,9 +382,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:53:51.671Z",
-    "original_repository": "thomasbnt/awesome-web-monetization",
-    "original_repository_id": 266153315,
+    "last_updated": "2026-08-27T12:11:16.438Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 266153315,
+      "language": null,
+      "last_commit": "2026-07-23T09:53:06Z",
+      "owner": "thomasbnt",
+      "repo": "awesome-web-monetization",
+      "stars": 356
+    },
     "original_repository_sha": "eadec20369e347086dfd86dd08479ef7ed0f10ef",
     "enhanced_repository": "enhansome/enhansome-web-monetization",
     "enhanced_repository_description": null,
