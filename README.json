@@ -12,12 +12,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome JavaScript Games  🎮",
+                "homepage": null,
                 "id": 271156716,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-03-22T21:09:20Z",
+                "open_issues": 20,
                 "owner": "proyecto26",
                 "repo": "awesome-jsgames",
-                "stars": 967
+                "stars": 967,
+                "topics": [
+                  "awesome-list",
+                  "awesome-lists",
+                  "game-development",
+                  "game-engines",
+                  "games",
+                  "games-list",
+                  "html5-game-development",
+                  "html5-game-engine",
+                  "html5-games",
+                  "javascript-game",
+                  "javascript-game-engine",
+                  "javascript-games",
+                  "js-games",
+                  "js13k",
+                  "js13kgames",
+                  "js13kgames-starter",
+                  "open-source",
+                  "web-games",
+                  "web-monetization"
+                ]
               },
               "first_seen": "2026-08-28T19:23:23.390Z"
             },
@@ -28,12 +53,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Helpers and hooks to speed up your integration with Web Monetization API",
+                "homepage": "https://react-monetize.now.sh",
                 "id": 263392732,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-02-02T20:05:04Z",
+                "open_issues": 25,
                 "owner": "guidovizoso",
                 "repo": "react-monetize",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:23:23.390Z"
             },
@@ -44,12 +74,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Eleventy plugin to monetize posts and site content",
+                "homepage": null,
                 "id": 263190136,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-09-18T17:22:57Z",
+                "open_issues": 1,
                 "owner": "devcer",
                 "repo": "eleventy-plugin-monetization",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "hacktoberfest",
+                  "interledger",
+                  "interledger-hacktoberfest",
+                  "web-monetization"
+                ]
               },
               "first_seen": "2026-08-28T19:23:23.390Z"
             },
@@ -60,12 +100,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "experimenting with web monetisation API",
+                "homepage": null,
                 "id": 263143922,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-07-05T10:32:12Z",
+                "open_issues": 2,
                 "owner": "Jasmin2895",
                 "repo": "web-monetized-video",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "javascript",
+                  "pay",
+                  "register",
+                  "video",
+                  "webcomponents",
+                  "webmonetization"
+                ]
               },
               "first_seen": "2026-08-28T19:23:23.390Z"
             },
@@ -76,12 +128,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An event-driven library to manage and simulate Web Monetization.",
+                "homepage": null,
                 "id": 263469577,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-08-31T13:33:05Z",
+                "open_issues": 2,
                 "owner": "sunchayn",
                 "repo": "monetize.js",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "event-driven",
+                  "monetization",
+                  "simulation",
+                  "web-monetization",
+                  "web-monetization-simulator"
+                ]
               },
               "first_seen": "2026-08-28T19:23:23.390Z"
             },
@@ -92,12 +155,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Web monetization for Gridsome.",
+                "homepage": null,
                 "id": 268649859,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-12T23:16:20Z",
+                "open_issues": 23,
                 "owner": "Sergix",
                 "repo": "gridsome-plugin-monetization",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:23:23.390Z"
             },
@@ -108,12 +176,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adds the web-monetization metatag to your VuePress website",
+                "homepage": "https://peterthaleikis.com",
                 "id": 271761280,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-05-28T10:44:35Z",
+                "open_issues": 1,
                 "owner": "spekulatius",
                 "repo": "vuepress-plugin-web-monetization",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "monetization",
+                  "vuepress",
+                  "vuepress-plugin",
+                  "web-monetization",
+                  "webmonetization"
+                ]
               },
               "first_seen": "2026-08-28T19:23:23.390Z"
             },
@@ -124,12 +203,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Jekyll plugin to add Web Monetization API payment pointers to your site",
+                "homepage": null,
                 "id": 268844134,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2022-04-05T12:46:47Z",
+                "open_issues": 0,
                 "owner": "philnash",
                 "repo": "jekyll-web_monetization",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:23:23.390Z"
             },
@@ -140,12 +224,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React hooks for integrating with Web Monetization.",
+                "homepage": null,
                 "id": 223358619,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-03-04T05:15:55Z",
+                "open_issues": 2,
                 "owner": "dacioromero",
                 "repo": "react-hook-wm",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "react",
+                  "react-hooks",
+                  "web-monetization"
+                ]
               },
               "first_seen": "2026-08-28T19:23:23.390Z"
             },
@@ -156,12 +249,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of web components you can use on your web monetized websites.",
+                "homepage": null,
                 "id": 264586060,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2020-05-24T06:38:12Z",
+                "open_issues": 0,
                 "owner": "philnash",
                 "repo": "web-monetization-components",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:23:23.390Z"
             },
@@ -172,12 +270,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Web Monetization API for Angular!",
+                "homepage": "https://cddelta.github.io/ngx-monetization/",
                 "id": 264142366,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-02-11T10:39:55Z",
+                "open_issues": 2,
                 "owner": "CDDelta",
                 "repo": "ngx-monetization",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "angular",
+                  "typescript",
+                  "web-monetization"
+                ]
               },
               "first_seen": "2026-08-28T19:23:23.390Z"
             },
@@ -188,12 +295,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A JS library for Web Monetization revenue splitting. #gftwhackathon Winner.",
+                "homepage": "https://kewbi.sh/revshare",
                 "id": 263469319,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-07-13T02:03:18Z",
+                "open_issues": 0,
                 "owner": "kewbish",
                 "repo": "revshare",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "grant-for-the-web",
+                  "monetization",
+                  "revenue-sharing",
+                  "web-monetization"
+                ]
               },
               "first_seen": "2026-08-28T19:23:23.390Z"
             },
@@ -204,12 +321,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Web Monetization meta manager for React. It takes a Payment pointer and outputs plain HTML Web monetization meta tag. It's dead simple, and React beginner-friendly.",
+                "homepage": null,
                 "id": 277960651,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-07-15T03:22:47Z",
+                "open_issues": 7,
                 "owner": "uchibeke",
                 "repo": "react-web-monetization-meta",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "blockchain",
+                  "coil",
+                  "interledger",
+                  "meta",
+                  "monetization",
+                  "payment",
+                  "react",
+                  "web",
+                  "webmonetization"
+                ]
               },
               "first_seen": "2026-08-28T19:23:23.390Z"
             },
@@ -220,12 +352,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Trying something new with electron",
+                "homepage": null,
                 "id": 261820091,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2023-03-01T04:16:38Z",
+                "open_issues": 7,
                 "owner": "Jasmin2895",
                 "repo": "web-monetization-electron-app",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "coil",
+                  "electron-app",
+                  "web",
+                  "web-monetization"
+                ]
               },
               "first_seen": "2026-08-28T19:23:23.390Z"
             },
@@ -236,12 +378,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web Monetization chat app",
+                "homepage": null,
                 "id": 265071683,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-05-25T18:23:50Z",
+                "open_issues": 0,
                 "owner": "dfoderick",
                 "repo": "money-chat",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "chat",
+                  "web-monetization"
+                ]
               },
               "first_seen": "2026-08-28T19:23:23.390Z"
             },
@@ -252,12 +402,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TypeScript definitions for Web Monetization",
+                "homepage": null,
                 "id": 225473487,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2022-05-11T16:55:23Z",
+                "open_issues": 0,
                 "owner": "dacioromero",
                 "repo": "types-wm",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "definition",
+                  "dts",
+                  "types",
+                  "typescript",
+                  "typescript-definitions",
+                  "typings",
+                  "web-monetization",
+                  "webmonetization"
+                ]
               },
               "first_seen": "2026-08-28T19:23:23.390Z"
             },
@@ -268,12 +432,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple Go proxy for injecting Web Monetization meta tags. Done as part of the Dev \"Grant For The Web\" Hackathon",
+                "homepage": null,
                 "id": 262886176,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2020-08-11T14:25:51Z",
+                "open_issues": 1,
                 "owner": "tcdowney",
                 "repo": "web-monetization-proxy",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "gftwhackathon",
+                  "go",
+                  "golang",
+                  "proxy",
+                  "web-monetization"
+                ]
               },
               "first_seen": "2026-08-28T19:23:23.390Z"
             },
@@ -284,12 +459,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Polyfill the Web Monetization JavaScript API on document.monetization",
+                "homepage": null,
                 "id": 310484087,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2021-02-06T16:27:31Z",
+                "open_issues": 0,
                 "owner": "immers-space",
                 "repo": "web-monetization-polyfill",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:23:23.390Z"
             },
@@ -300,12 +480,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a Web Monetization Demo :)",
+                "homepage": null,
                 "id": 269026307,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2022-09-30T19:40:50Z",
+                "open_issues": 1,
                 "owner": "peter279k",
                 "repo": "web-monetization-demo",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "apache2",
+                  "bootstrap4",
+                  "coil",
+                  "jquery",
+                  "mysql-database",
+                  "php72",
+                  "slim-framework",
+                  "slim4",
+                  "web-monetization"
+                ]
               },
               "first_seen": "2026-08-28T19:23:23.390Z"
             },
@@ -316,12 +511,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WebMonetization for Etherpad",
+                "homepage": null,
                 "id": 267437001,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-05-27T22:13:45Z",
+                "open_issues": 0,
                 "owner": "ISNIT0",
                 "repo": "ep_monetization",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:23:23.390Z"
             },
@@ -332,12 +532,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source, always evolving, universal content rating system.",
+                "homepage": "https://disclosures.media",
                 "id": 354742498,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2022-09-01T03:17:58Z",
+                "open_issues": 7,
                 "owner": "oofdere",
                 "repo": "mediadisclosures",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "content-ratings",
+                  "jekyll-site",
+                  "pwa",
+                  "rating",
+                  "rating-system",
+                  "web-monetization",
+                  "webmonetization",
+                  "website"
+                ]
               },
               "first_seen": "2026-08-28T19:23:23.390Z"
             }
@@ -355,12 +569,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A browser extension that gives you insight into your engagement with Web Monetization.",
+                "homepage": null,
                 "id": 266425071,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-01T22:06:03Z",
+                "open_issues": 24,
                 "owner": "esse-dev",
                 "repo": "akita",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "interledger",
+                  "interledger-protocol",
+                  "monetization",
+                  "web-monetization",
+                  "webmonetization"
+                ]
               },
               "first_seen": "2026-08-28T19:23:23.390Z"
             },
@@ -371,12 +596,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👛 Tools for managing a vanity Web Monetization wallet",
+                "homepage": "https://omw-demo.signalnerve.workers.dev/admin/",
                 "id": 264293475,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-06-10T00:44:14Z",
+                "open_issues": 13,
                 "owner": "kristianfreeman",
                 "repo": "openmonetizationwallet",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:23:23.390Z"
             },
@@ -387,12 +617,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A very simple tool for checking if Web Monetization is enabled",
+                "homepage": null,
                 "id": 263302638,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-01-24T09:51:41Z",
+                "open_issues": 4,
                 "owner": "jkga",
                 "repo": "is-web-monetized",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "gftwhackaton",
+                  "monetization",
+                  "tool",
+                  "web-monetization"
+                ]
               },
               "first_seen": "2026-08-28T19:23:23.390Z"
             }
@@ -406,15 +646,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:23:23.390Z",
+    "last_updated": "2026-08-29T04:45:00.962Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🕶️ Stuffs about Web Monetization. Packages, articles, documentation links and others tools.",
+      "homepage": "https://awesomewebmonetization.netlify.app",
       "id": 266153315,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-07-23T09:53:06Z",
+      "open_issues": 0,
       "owner": "thomasbnt",
       "repo": "awesome-web-monetization",
-      "stars": 356
+      "stars": 356,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "coil",
+        "gatehub",
+        "hacktoberfest",
+        "ilp",
+        "ilp-payment",
+        "javascript",
+        "monetization",
+        "stronghold",
+        "web-monetization",
+        "webmonetization"
+      ]
     },
     "original_repository_sha": "eadec20369e347086dfd86dd08479ef7ed0f10ef",
     "enhanced_repository": "enhansome/enhansome-web-monetization",
