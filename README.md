@@ -46,7 +46,7 @@ If you would like to monetize your content, you must have a Wallet and Provider 
 
 | **Wallets** |                                                                                             |                                                                                                                                                                                                                                           |     |
 | :---------: | :-----------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-: |
-|     Name    | [![GateHub](https://webmonetization.org/img/logo-wallet-gatehub.svg)](https://gatehub.net/) | [New Wallet ?<br>Create a issue !](https://github.com/thomasbnt/awesome-web-monetization/issues/new?assignees=thomasbnt\&labels=Wallet%2C+%E2%86%94+WM+repository\&template=new-wallet.md\&title=%5BWa%5D) ⭐ 356 \| 🐛 0 \| 📅 2026-07-23 |     |
+|     Name    | [![GateHub](https://webmonetization.org/img/logo-wallet-gatehub.svg)](https://gatehub.net/) | [New Wallet ?<br>Create a issue !](https://github.com/thomasbnt/awesome-web-monetization/issues/new?assignees=thomasbnt\&labels=Wallet%2C+%E2%86%94+WM+repository\&template=new-wallet.md\&title=%5BWa%5D) ⭐ 357 \| 🐛 0 \| 📅 2026-07-23 |     |
 |     Fees    |                   SEPA: 1.00 EUR < 50,000 EUR<br>Wire: $15 min ($150 max)                   |                                                                                                                                                                                                                                           |     |
 
 | **Payments** |        |
@@ -194,4 +194,4 @@ Thanks to all **Sponsors on GitHub** !
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._

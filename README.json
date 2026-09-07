@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T11:37:17.896Z",
+    "last_updated": "2026-09-07T13:27:59.989Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️ Stuffs about Web Monetization. Packages, articles, documentation links and others tools.",
@@ -658,7 +658,7 @@
       "open_issues": 0,
       "owner": "thomasbnt",
       "repo": "awesome-web-monetization",
-      "stars": 356,
+      "stars": 357,
       "topics": [
         "awesome",
         "awesome-list",
