@@ -131,7 +131,7 @@ if (document.monetization) {
 
   > Akita presents your top visited monetized sites, how much time you're spending on them, and how much you're contributing (or could contribute) to them.
 
-* [Open Monetization Wallet](https://github.com/kristianfreeman/openmonetizationwallet) ⭐ 12 | 🐛 13 | 🌐 JavaScript | 📅 2023-06-10 - Tools for managing your vanity Web Monetization wallet.
+* [Open Monetization Wallet](https://github.com/kristianfreeman/openmonetizationwallet) ⭐ 12 | 🐛 2 | 🌐 JavaScript | 📅 2023-06-10 - Tools for managing your vanity Web Monetization wallet.
 
   > Open Monetization Wallet (OMW) makes it easier to accept payments with the Web Monetization API at scale. Some features:
   >
@@ -194,4 +194,4 @@ Thanks to all **Sponsors on GitHub** !
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
