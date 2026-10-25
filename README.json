@@ -17,7 +17,7 @@
                 "id": 271156716,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-22T04:34:23Z",
+                "last_commit": "2026-10-25T01:26:35Z",
                 "open_issues": 11,
                 "owner": "proyecto26",
                 "repo": "awesome-jsgames",
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T11:56:48.139Z",
+    "last_updated": "2026-10-25T12:30:37.126Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️ Stuffs about Web Monetization. Packages, articles, documentation links and others tools.",
