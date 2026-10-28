@@ -18,7 +18,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-25T01:26:35Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "proyecto26",
                 "repo": "awesome-jsgames",
                 "stars": 988,
@@ -209,7 +209,7 @@
                 "language": "Ruby",
                 "license": "MIT",
                 "last_commit": "2022-04-05T12:46:47Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "philnash",
                 "repo": "jekyll-web_monetization",
                 "stars": 12,
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T13:07:35.876Z",
+    "last_updated": "2026-10-28T13:57:23.529Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️ Stuffs about Web Monetization. Packages, articles, documentation links and others tools.",

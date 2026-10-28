@@ -82,14 +82,14 @@ if (document.monetization) {
 
 *Any packages/modules and plugins*
 
-* [awesome-jsgames](https://github.com/proyecto26/awesome-jsgames) ⭐ 988 | 🐛 12 | 📅 2026-10-25 - A curated list of awesome JavaScript Games ![](assets/small_icons/javascript.png)
+* [awesome-jsgames](https://github.com/proyecto26/awesome-jsgames) ⭐ 988 | 🐛 13 | 📅 2026-10-25 - A curated list of awesome JavaScript Games ![](assets/small_icons/javascript.png)
 * [react-monetize](https://github.com/guidovizoso/react-monetize) ⭐ 37 | 🐛 25 | 🌐 TypeScript | 📅 2024-02-02 - Helpers and hooks to speed up your integration with Web Monetization API. ![](assets/small_icons/react.png)
 * [eleventy-plugin-monetization](https://github.com/DanCanetti/eleventy-plugin-monetization) ⭐ 24 | 🐛 1 | 🌐 JavaScript | 📅 2024-09-18 - An Eleventy plugin to monetize posts and site content. ![](assets/small_icons/11ty.png)
 * [web-monetized-video](https://github.com/Jasmin2895/web-monetized-video) ⭐ 17 | 🐛 2 | 🌐 JavaScript | 📅 2023-07-05 - A web component with has play and pay policy and charges you for the amount of video watched. ![](assets/small_icons/javascript.png)
 * [monetize.js](https://github.com/sunchayn/monetize.js) ⭐ 16 | 🐛 2 | 🌐 JavaScript | 📅 2024-08-31 - An event-driven library to manage and simulate Web Monetization. ![](assets/small_icons/javascript.png)
 * [gridsome-plugin-monetization](https://github.com/Sergix/gridsome-plugin-monetization) ⚠️ Archived - Web monetization for Gridsome. ![](assets/small_icons/gridsome.png)
 * [vuepress-plugin-web-monetization](https://github.com/spekulatius/vuepress-plugin-web-monetization) ⭐ 15 | 🐛 1 | 🌐 JavaScript | 📅 2023-05-28 - Adds the web-monetization metatag to your VuePress website. ![](assets/small_icons/vuejs.png)
-* [jekyll-web\_monetization](https://github.com/philnash/jekyll-web_monetization) ⭐ 12 | 🐛 0 | 🌐 Ruby | 📅 2022-04-05 - A Jekyll plugin to add Web MonetizationAPI payment pointers to your site. ![](assets/small_icons/jekyll.png)
+* [jekyll-web\_monetization](https://github.com/philnash/jekyll-web_monetization) ⭐ 12 | 🐛 1 | 🌐 Ruby | 📅 2022-04-05 - A Jekyll plugin to add Web MonetizationAPI payment pointers to your site. ![](assets/small_icons/jekyll.png)
 * [react-hook-wm](https://github.com/dacioromero/react-hook-wm) ⭐ 9 | 🐛 2 | 🌐 TypeScript | 📅 2023-03-04 - React hooks for integrating with Web Monetization. ![](assets/small_icons/react.png)
 * [web-monetization-components](https://github.com/philnash/web-monetization-components) ⭐ 9 | 🐛 0 | 🌐 HTML | 📅 2020-05-24 - A collection of web components you can use on your web monetized websites. ![](assets/small_icons/javascript.png)
 * [ngx-monetization (archived)](https://github.com/CDDelta/ngx-monetization) ⚠️ Archived - Web Monetization API for Angular. ![](assets/small_icons/angular.png)
@@ -194,4 +194,4 @@ Thanks to all **Sponsors on GitHub** !
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
