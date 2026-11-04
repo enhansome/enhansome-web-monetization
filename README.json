@@ -18,7 +18,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-25T01:26:35Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "proyecto26",
                 "repo": "awesome-jsgames",
                 "stars": 991,
@@ -181,8 +181,8 @@
                 "id": 271761280,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2023-05-28T10:44:35Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-04T05:51:17Z",
+                "open_issues": 0,
                 "owner": "spekulatius",
                 "repo": "vuepress-plugin-web-monetization",
                 "stars": 15,
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T14:59:23.477Z",
+    "last_updated": "2026-11-04T15:20:16.478Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️ Stuffs about Web Monetization. Packages, articles, documentation links and others tools.",
