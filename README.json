@@ -21,7 +21,7 @@
                 "open_issues": 15,
                 "owner": "proyecto26",
                 "repo": "awesome-jsgames",
-                "stars": 991,
+                "stars": 992,
                 "topics": [
                   "awesome-list",
                   "awesome-lists",
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T15:21:53.656Z",
+    "last_updated": "2026-11-06T14:56:34.971Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️ Stuffs about Web Monetization. Packages, articles, documentation links and others tools.",
