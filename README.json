@@ -18,10 +18,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-25T01:26:35Z",
-                "open_issues": 19,
+                "open_issues": 21,
                 "owner": "proyecto26",
                 "repo": "awesome-jsgames",
-                "stars": 995,
+                "stars": 996,
                 "topics": [
                   "awesome-list",
                   "awesome-lists",
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T15:54:54.366Z",
+    "last_updated": "2026-11-13T15:17:45.575Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️ Stuffs about Web Monetization. Packages, articles, documentation links and others tools.",
@@ -655,7 +655,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-19T12:11:04Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "thomasbnt",
       "repo": "awesome-web-monetization",
       "stars": 360,
